@@ -2,10 +2,10 @@
 
 ## Sobre
 
-Mais um projeto do curso Formação Fullsatck JavaScript do Thiago M. Medeiros, dessa vez  o trata-se de um Linktree totalmente personalizável, o projeto serviu para colocar em prática os conceitos de responsividade, flexbox e CSS Gradient.
+Construído em um curso de desenvolvimemnto web, esse projeto trata-se de um Linktree totalmente personalizável, com o intuito de colocar em prática os conceitos de responsividade e flexbox.
 
 <p align="center"> 
-<img src="images/linktree.jfif" alt="Foto do linktree">
+<img src="images/linktree.png" alt="Foto do linktree">
 </p>
 
 ## Tecnologias
