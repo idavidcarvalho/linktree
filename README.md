@@ -15,4 +15,4 @@ Mais um projeto do curso Formação Fullsatck JavaScript do Thiago M. Medeiros, 
 </p>
 
 ## Como acessar o projeto
-Clique neste <a href="davidcarvalho-dev.github.io/index.html">link</a>.
+Clique neste <a href="https://idavidcarvalho.github.io">link</a>.
