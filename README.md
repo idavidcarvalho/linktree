@@ -15,4 +15,4 @@ Construído em um curso de desenvolvimemnto web, esse projeto trata-se de um Lin
 </p>
 
 ## Como acessar o projeto
-Clique neste <a href="https://idavidcarvalho.github.io">link</a>.
+Clique neste <a href="https://idavidcarvalho.github.io/linktree">link</a>.
